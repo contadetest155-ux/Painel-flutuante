@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Painel</string>
+    <string name="acc_label">Painel - atalho de volume</string>
+    <string name="acc_desc">Detecta 3 toques no Volume Menos para fechar o painel flutuante.</string>
+</resources>
